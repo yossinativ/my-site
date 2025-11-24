@@ -79,5 +79,11 @@ a:hover {
 }
 
 .myblue {
-	color:darkblue
+  color: blue;
+  text-align: center;
+  /* קוד הרקע שנוסף: */
+  background-color: white;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
 }
